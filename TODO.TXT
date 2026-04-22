@@ -1,1 +1,5 @@
-ORDER THE LIST BY TODOGIT
+list order by to do
+clean structure
+gitrepos-update.py and repo-manager.py must be in the same tool
+conver this into a cli application
+
