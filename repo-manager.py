@@ -29,7 +29,7 @@ from typing import Any, Dict, List, Optional, Tuple
 # }
 # ================================================
 
-DATA_FILE = "gitrepos"
+DATA_FILE = "gitrepos.json"
 
 
 def normalize_repo_entry(repo_entry: Any) -> Dict[str, str]:

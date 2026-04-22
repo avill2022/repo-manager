@@ -1,0 +1,336 @@
+{
+    "languages": [
+        {
+            "name": "C",
+            "repos": [
+                {
+                    "name": "Diccionario-de-datos-en-C",
+                    "todo": ""
+                },
+                {
+                    "name": "Games-C",
+                    "todo": ""
+                }
+            ]
+        },
+        {
+            "name": "C#",
+            "repos": [
+                {
+                    "name": "SistemaDeVentaHelados",
+                    "todo": ""
+                },
+                {
+                    "name": "SnakeV1.1",
+                    "todo": ""
+                },
+                {
+                    "name": "TicTacToe",
+                    "todo": ""
+                },
+                {
+                    "name": "Juego-Imposible",
+                    "todo": ""
+                },
+                {
+                    "name": "Generador-de-Laberintos",
+                    "todo": ""
+                },
+                {
+                    "name": "Nyan-Cat-V1",
+                    "todo": ""
+                },
+                {
+                    "name": "Calculo-De-Curvas",
+                    "todo": ""
+                },
+                {
+                    "name": "Grafo-Dinamico-Generico",
+                    "todo": ""
+                },
+                {
+                    "name": "Grafo-Optimo-Aleatorio",
+                    "todo": ""
+                },
+                {
+                    "name": "Grafo-Especial",
+                    "todo": ""
+                },
+                {
+                    "name": "how_to_draw_normal_distribution",
+                    "todo": ""
+                },
+                {
+                    "name": "Learn-English-Phrases",
+                    "todo": ""
+                },
+                {
+                    "name": "jtk-parser-LR1",
+                    "todo": ""
+                },
+                {
+                    "name": "postfix",
+                    "todo": ""
+                },
+                {
+                    "name": "convierteEnAutomata",
+                    "todo": ""
+                },
+                {
+                    "name": "DBMS1",
+                    "todo": ""
+                },
+                {
+                    "name": "Objectopia",
+                    "todo": ""
+                },
+                {
+                    "name": "YouSaw-0.3",
+                    "todo": ""
+                },
+                {
+                    "name": "MP3Autorun",
+                    "todo": ""
+                },
+                {
+                    "name": "YouSaw",
+                    "todo": ""
+                }
+            ]
+        },
+        {
+            "name": "java",
+            "repos": [
+                {
+                    "name": "Control-de-personal-Java",
+                    "todo": ""
+                },
+                {
+                    "name": "SitioTuristico",
+                    "todo": ""
+                }
+            ]
+        },
+        {
+            "name": "android",
+            "repos": [
+                {
+                    "name": "TunUcMaya",
+                    "todo": "fonts\nbackground\nfirebase-crashlyrics"
+                },
+                {
+                    "name": "TzolkinMaya",
+                    "todo": "font \nbackground "
+                },
+                {
+                    "name": "MayanAlmanac",
+                    "todo": "fonts\nAPI gpt\nwave spell click\ntablero oracle fragments\ncastles show today kin\nclick turtle\nclick week\n"
+                },
+                {
+                    "name": "MyShellApplicationJetpackCompose",
+                    "todo": "clean"
+                },
+                {
+                    "name": "MyShellApplicationJavaXML",
+                    "todo": ""
+                },
+                {
+                    "name": "MyShellApplicationKotlinXML",
+                    "todo": ""
+                },
+                {
+                    "name": "PartsOfSpeech",
+                    "todo": "dictionary by name by tipe\nquis uxui\nfusion with time tenses\ntesting\nactions \n"
+                },
+                {
+                    "name": "FakeCallAlarm",
+                    "todo": "make it public"
+                },
+                {
+                    "name": "YouSawSo",
+                    "todo": ""
+                },
+                {
+                    "name": "TierranuevaMagico",
+                    "todo": ""
+                },
+                {
+                    "name": "MyYoutubeVideoPlayer",
+                    "todo": ""
+                },
+                {
+                    "name": "MyPrinterApplication",
+                    "todo": ""
+                },
+                {
+                    "name": "NfcAndroidDemo",
+                    "todo": ""
+                },
+                {
+                    "name": "WorkRide",
+                    "todo": ""
+                },
+                {
+                    "name": "AllInCompose",
+                    "todo": ""
+                },
+                {
+                    "name": "AttendanceSystem",
+                    "todo": "upload to the server "
+                },
+                {
+                    "name": "HomeRemediesForEveryone",
+                    "todo": ""
+                },
+                {
+                    "name": "MasterChessBoard",
+                    "todo": "."
+                },
+                {
+                    "name": "MoviesCollection",
+                    "todo": "."
+                }
+            ]
+        },
+        {
+            "name": "chrome extensions",
+            "repos": [
+                {
+                    "name": "workspace-manager",
+                    "todo": ""
+                }
+            ]
+        },
+        {
+            "name": "PHP",
+            "repos": [
+                {
+                    "name": "avillsoftware.com",
+                    "todo": ""
+                }
+            ]
+        },
+        {
+            "name": "python",
+            "repos": [
+                {
+                    "name": "chords-project",
+                    "todo": "chords I guitarr"
+                },
+                {
+                    "name": "icons-changer",
+                    "todo": ""
+                },
+                {
+                    "name": "android-shell",
+                    "todo": "change the tests too"
+                },
+                {
+                    "name": "PyKotlin-Channel-Mapper",
+                    "todo": ""
+                },
+                {
+                    "name": "CodeCrab",
+                    "todo": ""
+                },
+                {
+                    "name": "PhrasesGeneratorChatGpt",
+                    "todo": ""
+                },
+                {
+                    "name": "Bulk-File-String-Replacement-Tool",
+                    "todo": ""
+                },
+                {
+                    "name": "chords-project",
+                    "todo": "chords I guitarr"
+                }
+            ]
+        },
+        {
+            "name": "new",
+            "repos": [
+                {
+                    "name": "repo-manager",
+                    "todo": ""
+                },
+                {
+                    "name": "RepoManager",
+                    "todo": ""
+                },
+                {
+                    "name": "almanaquemaya.com",
+                    "todo": ""
+                },
+                {
+                    "name": "nuestromenu.com",
+                    "todo": ""
+                },
+                {
+                    "name": "mediai.com",
+                    "todo": ""
+                },
+                {
+                    "name": "AvillSoftware.github.io",
+                    "todo": ""
+                },
+                {
+                    "name": "iLoveEnglishGrammar",
+                    "todo": ""
+                },
+                {
+                    "name": "ReadingAndWritingWorkshop",
+                    "todo": ""
+                },
+                {
+                    "name": "shellapplicationphp.com",
+                    "todo": ""
+                },
+                {
+                    "name": "WeeksOfMyLife",
+                    "todo": ""
+                },
+                {
+                    "name": "mymovies.com",
+                    "todo": ""
+                },
+                {
+                    "name": "nixos-config",
+                    "todo": ""
+                },
+                {
+                    "name": "avill2022",
+                    "todo": ""
+                },
+                {
+                    "name": "news.com",
+                    "todo": ""
+                },
+                {
+                    "name": "eduplataform.com",
+                    "todo": ""
+                },
+                {
+                    "name": "artandculture.com",
+                    "todo": ""
+                },
+                {
+                    "name": "MasterCheesBoard",
+                    "todo": ""
+                },
+                {
+                    "name": "ScrollGallery",
+                    "todo": ""
+                },
+                {
+                    "name": "LiteratureStudyGuide",
+                    "todo": ""
+                },
+                {
+                    "name": "MyDragonRadar",
+                    "todo": ""
+                }
+            ]
+        }
+    ]
+}
