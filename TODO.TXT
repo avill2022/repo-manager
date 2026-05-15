@@ -1,5 +1,3 @@
-list order by to do
-clean structure
-gitrepos-update.py and repo-manager.py must be in the same tool
-conver this into a cli application
-
+done - list order by todo
+done - clean structure
+done - gitrepos-update.py and repo-manager.py merged into main.py
