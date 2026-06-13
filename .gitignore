@@ -13,7 +13,7 @@ build/
 venv/
 env/
 virtualenv/
-
+gitrepos.json
 # IDE
 .vscode/
 .idea/
