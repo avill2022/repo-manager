@@ -14,6 +14,115 @@
             ]
         },
         {
+            "name": "android",
+            "repos": [
+                {
+                    "name": "TunUcMaya",
+                    "todo": "fonts\nbackground\nfirebase-crashlyrics"
+                },
+                {
+                    "name": "TzolkinMaya",
+                    "todo": "font \nbackground "
+                },
+                {
+                    "name": "MayanAlmanac",
+                    "todo": "fonts\nAPI gpt\nwave spell click\ntablero oracle fragments\ncastles show today kin\nclick turtle\nclick week\n"
+                },
+                {
+                    "name": "MyShellApplicationJetpackCompose",
+                    "todo": "clean"
+                },
+                {
+                    "name": "MyShellApplicationJavaXML",
+                    "todo": ""
+                },
+                {
+                    "name": "MyShellApplicationKotlinXML",
+                    "todo": ""
+                },
+                {
+                    "name": "PartsOfSpeech",
+                    "todo": "dictionary by name by tipe\nquis uxui\nfusion with time tenses\ntesting\nactions \n"
+                },
+                {
+                    "name": "FakeCallAlarm",
+                    "todo": "make it public"
+                },
+                {
+                    "name": "YouSawSo",
+                    "todo": ""
+                },
+                {
+                    "name": "TierranuevaMagico",
+                    "todo": ""
+                },
+                {
+                    "name": "MyYoutubeVideoPlayer",
+                    "todo": ""
+                },
+                {
+                    "name": "MyPrinterApplication",
+                    "todo": ""
+                },
+                {
+                    "name": "NfcAndroidDemo",
+                    "todo": ""
+                },
+                {
+                    "name": "WorkRide",
+                    "todo": ""
+                },
+                {
+                    "name": "AllInCompose",
+                    "todo": ""
+                },
+                {
+                    "name": "AttendanceSystem",
+                    "todo": "upload to the server "
+                },
+                {
+                    "name": "HomeRemediesForEveryone",
+                    "todo": ""
+                },
+                {
+                    "name": "MasterChessBoard",
+                    "todo": "."
+                },
+                {
+                    "name": "MoviesCollection",
+                    "todo": "."
+                },
+                {
+                    "name": "RepoManager",
+                    "todo": "fix bug when save "
+                },
+                {
+                    "name": "MyDragonRadar",
+                    "todo": ""
+                },
+                {
+                    "name": "WeeksOfMyLife",
+                    "todo": ""
+                },
+                {
+                    "name": "ReadingAndWritingWorkshop",
+                    "todo": ""
+                },
+                {
+                    "name": "LiteratureStudyGuide",
+                    "todo": "."
+                },
+                {
+                    "name": "MasterCheesBoard",
+                    "todo": ""
+                },
+                {
+                    "name": "iLoveEnglishGrammar",
+                    "todo": ""
+                }
+            ]
+        },
+        {
             "name": "C#",
             "repos": [
                 {
@@ -112,83 +221,47 @@
             ]
         },
         {
-            "name": "android",
+            "name": "PHP",
             "repos": [
                 {
-                    "name": "TunUcMaya",
-                    "todo": "fonts\nbackground\nfirebase-crashlyrics"
-                },
-                {
-                    "name": "TzolkinMaya",
-                    "todo": "font \nbackground "
-                },
-                {
-                    "name": "MayanAlmanac",
-                    "todo": "fonts\nAPI gpt\nwave spell click\ntablero oracle fragments\ncastles show today kin\nclick turtle\nclick week\n"
-                },
-                {
-                    "name": "MyShellApplicationJetpackCompose",
-                    "todo": "clean"
-                },
-                {
-                    "name": "MyShellApplicationJavaXML",
+                    "name": "avillsoftware.com",
                     "todo": ""
                 },
                 {
-                    "name": "MyShellApplicationKotlinXML",
-                    "todo": ""
+                    "name": "nuestromenu.com",
+                    "todo": ".json"
                 },
                 {
-                    "name": "PartsOfSpeech",
-                    "todo": "dictionary by name by tipe\nquis uxui\nfusion with time tenses\ntesting\nactions \n"
-                },
-                {
-                    "name": "FakeCallAlarm",
-                    "todo": "make it public"
-                },
-                {
-                    "name": "YouSawSo",
-                    "todo": ""
-                },
-                {
-                    "name": "TierranuevaMagico",
-                    "todo": ""
-                },
-                {
-                    "name": "MyYoutubeVideoPlayer",
-                    "todo": ""
-                },
-                {
-                    "name": "MyPrinterApplication",
-                    "todo": ""
-                },
-                {
-                    "name": "NfcAndroidDemo",
-                    "todo": ""
-                },
-                {
-                    "name": "WorkRide",
-                    "todo": ""
-                },
-                {
-                    "name": "AllInCompose",
-                    "todo": ""
-                },
-                {
-                    "name": "AttendanceSystem",
-                    "todo": "upload to the server "
-                },
-                {
-                    "name": "HomeRemediesForEveryone",
-                    "todo": ""
-                },
-                {
-                    "name": "MasterChessBoard",
+                    "name": "eduplataform.com",
                     "todo": "."
                 },
                 {
-                    "name": "MoviesCollection",
-                    "todo": "."
+                    "name": "mymovies.com",
+                    "todo": "export json, order by, card Design"
+                },
+                {
+                    "name": "news.com",
+                    "todo": ""
+                },
+                {
+                    "name": "mediai.com",
+                    "todo": ""
+                },
+                {
+                    "name": "AvillSoftware.github.io",
+                    "todo": ""
+                },
+                {
+                    "name": "shellapplicationphp.com",
+                    "todo": ""
+                },
+                {
+                    "name": "artandculture.com",
+                    "todo": ""
+                },
+                {
+                    "name": "almanaquemaya.com",
+                    "todo": ""
                 }
             ]
         },
@@ -197,15 +270,6 @@
             "repos": [
                 {
                     "name": "workspace-manager",
-                    "todo": ""
-                }
-            ]
-        },
-        {
-            "name": "PHP",
-            "repos": [
-                {
-                    "name": "avillsoftware.com",
                     "todo": ""
                 }
             ]
@@ -244,6 +308,10 @@
                 {
                     "name": "chords-project",
                     "todo": "chords I guitarr"
+                },
+                {
+                    "name": "repo-manager",
+                    "todo": ""
                 }
             ]
         },
@@ -251,83 +319,72 @@
             "name": "new",
             "repos": [
                 {
-                    "name": "repo-manager",
-                    "todo": ""
-                },
-                {
-                    "name": "RepoManager",
-                    "todo": ""
-                },
-                {
-                    "name": "almanaquemaya.com",
-                    "todo": ""
-                },
-                {
-                    "name": "nuestromenu.com",
-                    "todo": ""
-                },
-                {
-                    "name": "mediai.com",
-                    "todo": ""
-                },
-                {
-                    "name": "AvillSoftware.github.io",
-                    "todo": ""
-                },
-                {
-                    "name": "iLoveEnglishGrammar",
-                    "todo": ""
-                },
-                {
-                    "name": "ReadingAndWritingWorkshop",
-                    "todo": ""
-                },
-                {
-                    "name": "shellapplicationphp.com",
-                    "todo": ""
-                },
-                {
-                    "name": "WeeksOfMyLife",
-                    "todo": ""
-                },
-                {
-                    "name": "mymovies.com",
+                    "name": "avill2022",
                     "todo": ""
                 },
                 {
                     "name": "nixos-config",
                     "todo": ""
-                },
+                }
+            ]
+        },
+        {
+            "name": "new",
+            "repos": [
                 {
-                    "name": "avill2022",
+                    "name": "ghostradio",
                     "todo": ""
                 },
                 {
-                    "name": "news.com",
+                    "name": "englishmethod.com",
                     "todo": ""
                 },
                 {
-                    "name": "eduplataform.com",
+                    "name": "literaturestudyguide.com",
                     "todo": ""
                 },
                 {
-                    "name": "artandculture.com",
+                    "name": "Chordo",
                     "todo": ""
                 },
                 {
-                    "name": "MasterCheesBoard",
+                    "name": "yousawso-py",
                     "todo": ""
                 },
                 {
-                    "name": "ScrollGallery",
+                    "name": "mywebpages.com",
                     "todo": ""
                 },
                 {
-                    "name": "LiteratureStudyGuide",
+                    "name": "yousawso.com",
                     "todo": ""
                 },
                 {
-                    "name": "MyDragonRadar",
+                    "name": "chords-scrapper",
+                    "todo": ""
+                },
+                {
+                    "name": "TzolkinInterpreter",
+                    "todo": ""
+                },
+                {
+                    "name": "GalleryReel",
+                    "todo": ""
+                },
+                {
+                    "name": "init-config",
+                    "todo": ""
+                },
+                {
+                    "name": "chordo.com",
+                    "todo": ""
+                },
+                {
+                    "name": "CoverCam",
+                    "todo": ""
+                },
+                {
+                    "name": "content-generator",
                     "todo": ""
                 }
             ]

@@ -37,7 +37,7 @@ pip install -r requirements.txt
 nix develop
 ```
 
-This drops you into a shell with Python and all dependencies (requests, python-dotenv).
+This drops you into a shell with Python, the GitHub CLI (`gh`), and all Python dependencies (requests, python-dotenv).
 
 ### 4. Data file
 
@@ -77,8 +77,12 @@ python main.py help
 
 ## Dependencies
 
+### Python (pip)
 - [requests](https://pypi.org/project/requests/) — HTTP requests for remote API sync
 - [python-dotenv](https://pypi.org/project/python-dotenv/) — optional `.env` file support
+
+### System
+- [GitHub CLI (gh)](https://cli.github.com/) — required for the `update` command. Install via your package manager: `sudo apt install gh`, `brew install gh`, or `nix shell nixpkgs#gh`.
 
 ## Files
 

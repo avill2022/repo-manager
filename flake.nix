@@ -12,6 +12,7 @@
   in {
     devShells.${system}.default = pkgs.mkShell {
       buildInputs = [
+        pkgs.gh
         (pkgs.python3.withPackages (ps: with ps; [
           requests
           python-dotenv
