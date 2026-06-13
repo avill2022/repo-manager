@@ -39,3 +39,27 @@ coverage/
 *.so
 *.dylib
 *.dll
+
+# Folders
+A.I/
+DevOps/
+PHP/
+System Volume Information/
+android/
+c#/
+c++/
+c/
+chrome-extensions/
+courses/
+docker/
+flutter/
+git/
+haking/
+init-config/
+java/
+kotlin/
+myenv/
+nodejs/
+profile/
+python/
+react/
