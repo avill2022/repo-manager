@@ -1,0 +1,7 @@
+Create the `python-dotenv` file if it doesn't exist; if it does, update it if necessary.
+
+Create the `requirement.txt` file to install the dependencies if it doesn't exist; if it does, update it if necessary.
+
+Create a `flake.nix` file to prepare the development environment in nixos if it doesn't exist; if it does, update it if necessary.
+
+Create the `README.md` file and add instructions for using the project, including installing the dependencies and the `python-dotenv` file.

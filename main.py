@@ -11,10 +11,13 @@ import sys
 from typing import Any, Dict, List, Optional, Tuple
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 DATA_FILE = "gitrepos.json"
-REMOTE_GET_URL = "https://avillsoftware.com/repo-manager/get_repos.php"
-REMOTE_SAVE_URL = "https://avillsoftware.com/repo-manager/save_repos.php"
+REMOTE_GET_URL = os.getenv("REMOTE_GET_URL", "https://avillsoftware.com/repo-manager/get_repos.php")
+REMOTE_SAVE_URL = os.getenv("REMOTE_SAVE_URL", "https://avillsoftware.com/repo-manager/save_repos.php")
 
 
 def print_error(message: str) -> None:
